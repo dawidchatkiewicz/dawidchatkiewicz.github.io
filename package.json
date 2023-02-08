@@ -1,0 +1,23 @@
+{
+  "name": "dawidchatkiewicz.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dawidchatkiewicz/dawidchatkiewicz.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dawidchatkiewicz/dawidchatkiewicz.github.io/issues"
+  },
+  "homepage": "https://github.com/dawidchatkiewicz/dawidchatkiewicz.github.io#readme",
+  "devDependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
